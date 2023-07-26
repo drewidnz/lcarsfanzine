@@ -1409,7 +1409,7 @@ h1, h2, h3	{
 
 h1	{
 	font-size: clamp(2rem, 1.04rem + 3.84vw, 3.2rem);
-	text-align: right;
+	text-align: left;
 }
 
 h2	{
