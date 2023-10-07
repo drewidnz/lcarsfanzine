@@ -86,22 +86,34 @@
 						<!-- Start your content here. -->
 
 				
-					
-				
-			
-						<h2> </h2>
+				<h2> </h2>
 
 						
-						<h3>INPUT RECEIVED:</h3>
+						<h3>QUERY RECEIVED:</h3>
 						<p>“COMPUTER, ACCESS STARFLEET HISTORICAL DATABASE AND RUN A COMPARISON BETWEEN THE FEDERATION’S 
 						CURRENT ECONOMIC SYSTEM AND THE ECONOMIC SYSTEM THAT EXISTED ON EARTH IN THE EARLY TWENTY-FIRST CENTURY.”</p>
 						
 
 						
-						<div class="buttons" align="right">
-                            <a href="lcars2" class="bluey">RUN QUERY</a>
+						<div class="buttons jc-flex-end" align="right">
+                            <a href="lcars9" class="bluey">RUN QUERY</a>
+                        
+                        </div>	
+				
+			
+						<h2> </h2>
+
+						
+						<h3>QUERY RECEIVED:</h3>
+						<p>“COMPUTER, WHERE IS IRELAND?”</p>
+						
+
+						
+						<div class="buttons jc-flex-end" align="right">
+                            <a href="lcars9" class="bluey">RUN QUERY</a>
                         
                         </div>
+
 						
 						<!-- End content area. -->
 
